@@ -6,15 +6,7 @@ h1{
     color: blueviolet;
     text-align: center;
 }
-form{
-    text-align: center;
-    margin: 30%;
-    border-style: solid;
-    border-radius: 3px;
-    border-color: yellow;
-    height: 50px;
-    width: 272px;
-}
-input{
-    color: aliceblue;
+div{
+    align-items: center;
+    ;
 }
